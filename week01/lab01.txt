@@ -21,3 +21,9 @@ drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:41 week10
 drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:35 week11
 drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:42 xtra
 /home/fasilkom/mahasiswa/m/maktal.sakriadhi/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 16 Feb 2017 at 17:06:46
+Today is 16 Feb 2017 at 17:08:19
+Today is 16 Feb 2017 at 17:13:45
+Today is 16 Feb 2017 at 17:22:08
+Today is 16 Feb 2017 at 17:22:16
