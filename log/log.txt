@@ -1,0 +1,7 @@
+w00-170207-13-LR-About: Introduction to Operating System, From: Lecturer
+w00-170209-13-LR-About: the Differences between free software and open source, From: Lecturer
+w01-170214-13-LR-About: mendalami Hak Kekayaan Intelektual, From: Lecturer
+w01-170214-16-LR-About: differences between copyright and hak paten, From: books and friends 
+w01-170216-13-LR-About: jenis2 method dalam command di scripting, regular expression, From: Lecture and slide
+w01-170216-15-PS-About: mengerjakan lab01 sambil mendalami tentang github dengan membuat folder, file, melalui putty, From: scele
+w01-170216-17-DS-About: membahas tentang pengerjaan lab01, membahas kegunaan github, From: ghea dan aisyah dan eki
