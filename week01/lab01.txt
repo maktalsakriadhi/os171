@@ -1,0 +1,23 @@
+total 80
+drwxr-xr-x 19 maktal.sakriadhi StafCS 4096 Feb 16 16:14 .
+drwx--x--x  3 maktal.sakriadhi StafCS 4096 Feb 16 16:06 ..
+drwxr-xr-x  8 maktal.sakriadhi StafCS 4096 Feb 16 16:13 .git
+drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:42 key
+-rw-r--r--  1 maktal.sakriadhi StafCS    0 Feb 16 16:18 lab01.txt
+drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:41 log
+-rw-r--r--  1 maktal.sakriadhi StafCS    7 Feb 16 15:30 README.md
+drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:54 sandbox
+drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 16:06 week00
+drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:38 week01
+drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:39 week02
+drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:39 week03
+drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:40 week04
+drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:40 week05
+drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:40 week06
+drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:41 week07
+drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:41 week08
+drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:41 week09
+drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:41 week10
+drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:35 week11
+drwxr-xr-x  2 maktal.sakriadhi StafCS 4096 Feb 16 15:42 xtra
+/home/fasilkom/mahasiswa/m/maktal.sakriadhi/os171/week01
