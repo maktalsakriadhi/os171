@@ -4,4 +4,18 @@ w01-170214-13-LR-About: mendalami Hak Kekayaan Intelektual, From: Lecturer
 w01-170214-16-LR-About: differences between copyright and hak paten, From: books and friends 
 w01-170216-13-LR-About: jenis2 method dalam command di scripting, regular expression, From: Lecture and slide
 w01-170216-15-PS-About: mengerjakan lab01 sambil mendalami tentang github dengan membuat folder, file, melalui putty, From: scele
-w01-170216-17-DS-About: membahas tentang pengerjaan lab01, membahas kegunaan github, From: ghea dan aisyah dan eki
+w01-170216-17-DS-About: membahas tentang pengerjaan lab01, membahas kegunaan github, From: with ghea dan aisyah dan eki
+W02-170221-13-LR--About: Scripting and its properties, From Lecturer
+W02-170221-13-LR--About: Scripting and its properties, From Lecturer
+W02-170221-16-LR-About: Scripting 01 From: Slide
+W02-170223-13-LR-About: Scripting 02-03 From Slide and Lecturer
+W02-170224-16-PS-About: do the lab task at 1107
+W02-170224-16-PS-About: do the lab task at 1107
+W02-170224-17-PS-About: do the lab task at 1107
+W02-170224-17-PS-About: do the lab task at 1107
+W02-170224-18-PS-About: do the lab task at 1107
+W02-170224-18-PS-About: do the lab task at 1107
+W02-170224-19-PS-About: do the lab task at 1107
+W02-170224-19-PS-About: do the lab task at 1107
+W02-170224-20-PS-About: do the lab task and watch Scripting video from Arsip file at 1107
+W02-170224-20-PS-About: do the lab task and watch Scripting video from Arsip file at 1107
