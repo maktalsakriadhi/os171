@@ -19,3 +19,14 @@ W02-170224-19-PS-About: do the lab task at 1107
 W02-170224-19-PS-About: do the lab task at 1107
 W02-170224-20-PS-About: do the lab task and watch Scripting video from Arsip file at 1107
 W02-170224-20-PS-About: do the lab task and watch Scripting video from Arsip file at 1107
+W03-170303-15-PS-About: do the lab task at belyosh
+W03-170303-18-PS-About: do the lab task at belyosh
+W04-170310-19-PS-About: do the lab task at 1107
+W04-170310-21-PS-About: do the lab task at 1107
+W05-170319-19-PS-About: do the lab task at home, all by myself
+W05-170319-21-PS-About: do the lab task at home, all by myself
+W06-170415-20-PS-About: do the lab task at home
+W06-170415-23-PS-About: do the lab task at home
+W07-170420-13-LR-About: deep learning about scheduling, basic concepts, CPU bursts Times, CPU scheduler, From:Lecturer
+W07-170420-17-PS-About: do the lab task at home
+W07-170420-20-PS-About: do the lab task at home
